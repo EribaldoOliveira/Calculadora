@@ -3,6 +3,9 @@ Calculadora em HTML, CSS e Javascript
 
 ![image](https://user-images.githubusercontent.com/114995774/230533317-3c638247-b6f7-409a-95ef-1dfe8f8516d5.png)
 
+![image](https://user-images.githubusercontent.com/114995774/233630985-8d2443be-c9e4-468a-9fc4-8ef69c273997.png)
+
+
 <h1> Visão Geral</h1>
 
 <h2> Linguagens Utilizadas</h2>
